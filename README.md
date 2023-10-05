@@ -23,6 +23,9 @@
 
 - ⚡ Fun fact **I believe in "data torturing to data confessing" and I enjoy music-maths combo 👀.**
 
+
+[![An image of @rdeshwal731's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rdeshwal731)](https://holopin.io/@rdeshwal731)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
