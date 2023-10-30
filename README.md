@@ -25,9 +25,9 @@
 
 
 [![An image of @rdeshwal731's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rdeshwal731)](https://holopin.io/@rdeshwal731)
-[![Machine Learning with Apache Spark](https://www.credly.com/badges/d1fa3584-08d7-4431-80ba-cc4ce127db5c/public_url)]
-[![NoSQL Databases Essentials](https://www.credly.com/badges/d3e5d067-dd35-4d8f-ba69-17d1668d24b8/public_url)]
-[![Big Data with Spark and Hadoop Essentials](https://www.credly.com/badges/e831ee0e-04fa-4983-a8df-dc65255dbf61/public_url)]
+[![Machine Learning with Apache Spark](https://www.credly.com/badges/d1fa3584-08d7-4431-80ba-cc4ce127db5c/public_url)](https://www.credly.com/badges/d1fa3584-08d7-4431-80ba-cc4ce127db5c/public_url)
+[![NoSQL Databases Essentials](https://www.credly.com/badges/d3e5d067-dd35-4d8f-ba69-17d1668d24b8/public_url)](https://www.credly.com/badges/d3e5d067-dd35-4d8f-ba69-17d1668d24b8/public_url)
+[![Big Data with Spark and Hadoop Essentials](https://www.credly.com/badges/e831ee0e-04fa-4983-a8df-dc65255dbf61/public_url)](https://github.com/rdeshwal731/Assets/blob/main/badges/big-data-with-spark-and-hadoop-essentials.png?raw=true)
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
