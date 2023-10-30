@@ -24,10 +24,17 @@
 - ⚡ Fun fact **I believe in "data torturing to data confessing" and I enjoy music-maths combo 👀.**
 
 
-[![An image of @rdeshwal731's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rdeshwal731)](https://holopin.io/@rdeshwal731)
-[![Machine Learning with Apache Spark](https://www.credly.com/badges/d1fa3584-08d7-4431-80ba-cc4ce127db5c/public_url)](https://www.credly.com/badges/d1fa3584-08d7-4431-80ba-cc4ce127db5c/public_url)
-[![NoSQL Databases Essentials](https://www.credly.com/badges/d3e5d067-dd35-4d8f-ba69-17d1668d24b8/public_url)](https://www.credly.com/badges/d3e5d067-dd35-4d8f-ba69-17d1668d24b8/public_url)
-[![Big Data with Spark and Hadoop Essentials](https://www.credly.com/badges/e831ee0e-04fa-4983-a8df-dc65255dbf61/public_url)](https://github.com/rdeshwal731/Assets/blob/main/badges/big-data-with-spark-and-hadoop-essentials.png?raw=true)
+
+
+## Badges:
+<p align="left">
+
+<a href = "https://www.credly.com/badges/d3e5d067-dd35-4d8f-ba69-17d1668d24b8/public_url"><img width = "15%" height = "auto" src="https://github.com/rdeshwal731/Assets/blob/main/badges/nosql-databases-essentials.png?raw=true"/></a>
+<a href = "https://www.credly.com/badges/d1fa3584-08d7-4431-80ba-cc4ce127db5c/public_url"><img width = "15%" height = "auto" src="https://github.com/rdeshwal731/Assets/blob/main/badges/machine-learning-with-apache-spark.1.png?raw=true"/></a>
+<a href = "https://www.credly.com/badges/e831ee0e-04fa-4983-a8df-dc65255dbf61/public_url"><img width = "15%" height = "auto" src="https://github.com/rdeshwal731/Assets/blob/main/badges/big-data-with-spark-and-hadoop-essentials.png?raw=true"/></a>
+<a href = "https://holopin.io/@rdeshwal731"><img width = "50%" height = "auto" src="https://holopin.me/rdeshwal731"/></a>
+</p>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
