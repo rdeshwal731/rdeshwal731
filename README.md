@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Solidity](https://github.com/stars/rdeshwal731/lists/solidity)**
+- 🔭 I’m currently working on **[Machine Learning](https://github.com/rdeshwal731/A.P.I.Q.E.)**
 
-- 🌱 I’m currently learning **Web3 & Data Science**
+- 🌱 I’m currently learning **Data Science and its benefits**
 
 - 👯 I’m open for collaborations on **OpenSource Projects**
 
